@@ -1,0 +1,22 @@
+body {
+    background-color: #1f1f1f;
+  }
+  
+  .header {
+    width: 105%;
+    height: 8.5%;
+    left: -3%;
+    position: absolute;
+    background-image: linear-gradient(#1f1f1f, #1f1f1f);
+  }
+
+  .header-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white
+  }
+  
+  

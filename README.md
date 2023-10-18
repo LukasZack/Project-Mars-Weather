@@ -16,6 +16,6 @@ Steps :
 5. From your terminal run (This renderes the scene) :
     npx vite build    
 
-6. Make to name your HTML file as "index.html"    
+6. Make sure to name your HTML file as "index.html"    
 
 
