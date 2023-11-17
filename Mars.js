@@ -14,7 +14,7 @@ document.getElementById('scene-container').appendChild(renderer.domElement);
 
 
 // Creating a sphere geometry, material and mesh
-const sphereGeometry = new THREE.SphereGeometry(1, 1028, 1028);
+const sphereGeometry = new THREE.SphereGeometry(1, 40, 40);
 
 // Loading the texture image
 const textureLoader = new THREE.TextureLoader();
@@ -43,6 +43,3 @@ const animate = () => {
 };
 
 animate();
-
-
-
